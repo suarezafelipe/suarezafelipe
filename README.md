@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**suarezafelipe/suarezafelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# I'm Felipe Suarez, Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ![alt React](https://developerjobs.s3.us-east-2.amazonaws.com/logos/react.png), ![alt TS](https://developerjobs.s3.us-east-2.amazonaws.com/logos/typescript.png) and ![alt C#](https://developerjobs.s3.us-east-2.amazonaws.com/logos/csharp.png) for a US-based Fintech company
+- 🌱 I’m currently learning react-query and dotnet 5
+- ✈️ I’m looking to relocate to Germany, Austria or Switzerland
+- 💬 Ask me about dotnet core or react
+- 📫 How to reach me: https://www.linkedin.com/in/suarez-felipe/?locale=de_DE 
+- 👅 I speak English, German and Spanish
+- ⚡ Fun fact: I used to play Magic: the Gathering as a kid, and participated in world championships and pro tours
+
+![alt Github Scorecard](https://github-readme-stats.vercel.app/api?username=suarezafelipe&show_icons=true&locale=en&theme=dark)
+
+![alt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suarezafelipe&show_icons=true&locale=en&layout=compact&theme=dark)
+
+
