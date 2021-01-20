@@ -11,8 +11,8 @@
 - 👅 I speak English, German and Spanish
 - ⚡ Fun fact: I used to play Magic: the Gathering as a kid, and participated in world championships and pro tours
 
-![alt Github Scorecard](https://github-readme-stats.vercel.app/api?username=suarezafelipe&show_icons=true&locale=en&theme=dark)
+![alt Github Scorecard](https://github-readme-stats.vercel.app/api?username=suarezafelipe&show_icons=true&locale=en&theme=dracula)
 
-![alt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suarezafelipe&show_icons=true&locale=en&layout=compact&theme=dark)
+![alt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suarezafelipe&show_icons=true&locale=en&layout=compact&theme=dracula&hide=vue)
 
 
