@@ -3,11 +3,11 @@
 
 # I'm Felipe Suarez, Fullstack Developer
 
-- 🔭 I’m currently working on ![alt React](https://developerjobs.s3.us-east-2.amazonaws.com/logos/react.png), ![alt TS](https://developerjobs.s3.us-east-2.amazonaws.com/logos/typescript.png) and ![alt C#](https://developerjobs.s3.us-east-2.amazonaws.com/logos/csharp.png) for a US-based Fintech company
-- 🌱 I’m currently learning react-query and dotnet 5
-- ✈️ I’m looking to relocate to Germany, Austria or Switzerland
+- 🔭 I’m currently working on ![alt C#](https://developerjobs.s3.us-east-2.amazonaws.com/logos/csharp.png) for a German company
+- 🌱 I’m currently learning react-query and dotnet 7
+- ✈️ I’m looking for a 100% remote job in US or central Europe timezone
 - 💬 Ask me about dotnet core or react
-- 📫 How to reach me: https://www.linkedin.com/in/suarez-felipe/?locale=de_DE 
+- 📫 How to reach me: https://www.linkedin.com/in/suarez-felipe
 - 👅 I speak English, German and Spanish
 - ⚡ Fun fact: I used to play Magic: the Gathering as a kid, and participated in world championships and pro tours
 
