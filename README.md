@@ -9,7 +9,7 @@
 - 💬 Ask me about dotnet core or react
 - 📫 How to reach me: https://www.linkedin.com/in/suarez-felipe
 - 👅 I speak English, German and Spanish
-- ⚡ Fun fact: I used to play Magic: the Gathering as a kid, and participated in world championships and pro tours
+- ⚡ Fun fact: I used to play Magic: the Gathering as a kid
 
 ![alt Github Scorecard](https://github-readme-stats.vercel.app/api?username=suarezafelipe&show_icons=true&locale=en&theme=dracula)
 
