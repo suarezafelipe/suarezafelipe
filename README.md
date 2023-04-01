@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Machine Learning and Large Language Models
 - ✈️ I’m looking for a 100% remote job in US or central Europe timezone
 - 💬 Ask me about dotnet or Angular
-- 📫 How to reach me: github
+- 📫 How to reach me: https://suarezafelipe.github.io/ 
 - 👅 I speak English, German and Spanish
 - ⚡ Fun fact: I used to play Magic: the Gathering as a kid
 
