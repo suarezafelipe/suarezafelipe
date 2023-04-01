@@ -4,10 +4,10 @@
 # I'm Felipe Suarez, Fullstack Developer
 
 - 🔭 I’m currently working on ![alt C#](https://developerjobs.s3.us-east-2.amazonaws.com/logos/csharp.png) for a German company
-- 🌱 I’m currently learning react-query and dotnet 7
+- 🌱 I’m currently learning about Machine Learning and Large Language Models
 - ✈️ I’m looking for a 100% remote job in US or central Europe timezone
-- 💬 Ask me about dotnet core or react
-- 📫 How to reach me: https://www.linkedin.com/in/suarez-felipe
+- 💬 Ask me about dotnet or Angular
+- 📫 How to reach me: github
 - 👅 I speak English, German and Spanish
 - ⚡ Fun fact: I used to play Magic: the Gathering as a kid
 
