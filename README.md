@@ -3,10 +3,9 @@
 
 # I'm Felipe Suarez, Fullstack Developer
 
-- 🔭 I’m looking for a 100% remote job in US or central Europe timezone
-- 🌱 I’m currently learning about Machine Learning and Large Language Models
+- 🌱 I’m currently learning about AI Agents
 - 💬 Ask me about dotnet or Angular
-- 📫 How to reach me: https://suarezafelipe.github.io/ 
+- 📫 My personal website: https://suarezafelipe.com/ 
 - 👅 I speak English, German and Spanish
 - ⚡ Fun fact: I used to play Magic: the Gathering as a kid
 
