@@ -7,7 +7,6 @@
 - 💬 Ask me about dotnet or Angular
 - 📫 My personal website: https://suarezafelipe.com/ 
 - 👅 I speak English, German and Spanish
-- ⚡ Fun fact: I used to play Magic: the Gathering as a kid
 
 ![alt Github Scorecard](https://github-readme-stats.vercel.app/api?username=suarezafelipe&show_icons=true&locale=en&theme=dracula)
 
